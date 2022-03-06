@@ -1,6 +1,6 @@
 {
   "mongoURI": "mongodb+srv://aymen1305:aymen1305@aymen.yd3sd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "jwtSecret": "TheSecretToken",
-  "githubClientId": "cec4b3ad241f1a5fe96f",
-  "githubSecret": "cb9f0bdd6a5daba2c114c4f4527c346a782ca3f4 "
+  "githubClientId": "ae642f60cd1c3f501172",
+  "githubSecret": "2119d65beaff7cad224fcf1cdd49367217b6f362"
 }
