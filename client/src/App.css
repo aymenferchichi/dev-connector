@@ -1,4 +1,7 @@
 /* Global Styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 :root {
   --primary-color: #25beb7;
   --dark-color: #2b2e31;
@@ -127,16 +130,7 @@ img {
 }
 
 .btn {
-  display: inline-block;
-  background: var(--light-color);
-  color: #333;
   padding: 0.4rem 1.3rem;
-  font-size: 1rem;
-  border: none;
-  cursor: pointer;
-  margin-right: 0.5rem;
-  transition: opacity 0.2s ease-in;
-  outline: none;
 }
 
 .badge {
@@ -333,7 +327,7 @@ button {
 /* Landing Page */
 .landing {
   position: relative;
-  background: url("./img/showcase.jpg") no-repeat center center/cover;
+  background: url("./img/showcase.gif") no-repeat center center/cover;
   height: 100vh;
 }
 
